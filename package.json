@@ -1,0 +1,23 @@
+{
+  "name": "bs-docx-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "docx": "^3.0.1",
+    "docx4js": "^3.1.12",
+    "htmlparser": "^1.7.7",
+    "mammoth": "^1.4.3",
+    "openxml": "github:jthuraisamy/openxml",
+    "textract": "^2.2.0",
+    "word-extractor": "^0.1.4",
+    "xpath": "0.0.24"
+  }
+}
