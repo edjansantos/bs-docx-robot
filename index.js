@@ -1,6 +1,7 @@
 var mammoth = require("mammoth"),
     fs = require('fs'),
-    folders = ["budismo", "financeiro", "noticias"];
+    folders = ["presidente-ikeda"];
+    // folders = ["budismo", "financeiro", "noticias"];
     // folders = ["budismo", "financeiro", "noticias", "relacionamento", "saude"];
     // folders = ["budismo", "financeiro", "noticias", "presidente-ikeda", "relacionamento", "relato-de-experiencia", "saude"];
 
